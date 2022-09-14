@@ -195,3 +195,7 @@ hr {border-top: 1px solid #3a3a3a;
     border-radius: 50%;
 
 }
+
+#times {
+    background-image: url('../images/dublin-city.webp');
+}
