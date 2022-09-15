@@ -86,7 +86,7 @@ to{ transform: scale(1.1);
 
 }
 
-#cover-text #cover-text h2 {
+#cover-text h2, h3 {
     color: #fff;
 
 }
